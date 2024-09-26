@@ -1,3 +1,2 @@
 # Git Basics
-DA IST DSA ZIEL WHAAAAAAY ! 
-und jetzt erstmal feierabend bierchen.... WOHLVERDIENT !
+Dies ist ein Projekt, um die Grundlagen von Git zu lernen.
