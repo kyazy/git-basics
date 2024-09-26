@@ -1,2 +1,2 @@
 # Git Basics
-Diese Hausaufgabe ist nervig
+sogar ultra nervig
