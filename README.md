@@ -1,2 +1,2 @@
 # Git Basics
-ich kann licht sehen
+das licht kommt näher :o 
