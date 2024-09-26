@@ -1,2 +1,3 @@
 # Git Basics
-das licht kommt näher :o 
+DA IST DSA ZIEL WHAAAAAAY ! 
+und jetzt erstmal feierabend bierchen.... WOHLVERDIENT !
