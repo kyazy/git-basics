@@ -1,2 +1,2 @@
 # Git Basics
-wann hat das endlich ein ende??
+ich komme dem ende näher...
